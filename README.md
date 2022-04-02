@@ -2,8 +2,10 @@
 A bit about me:
 
     Nationality: 🇨🇦
-    Personal interests: Gamin, food, anime.. all the weeb stuff..
-
+    Personal interests: food, hiking, developin games & bots, anime.. all the weeb stuff..and Gaming!
+    Gaming: Genshin, Minecraft, League, Hearthstone!
+    Socials: Check out my linked socials & my discord: 0xAnton#1337
+    
 🌎 Check my portfolio website!
 
 I'm always working on something & love creating. 
