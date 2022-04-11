@@ -5,6 +5,8 @@ A bit about me:
     Personal interests: food, hiking, developin games & bots, anime.. all the weeb stuff..and Gaming!
     Gaming: Genshin, Minecraft, League, Hearthstone!
     Socials: Check out my linked socials & my discord: 0xAnton#1337
+    Languages: English, French, Python, HTML, CSS, C, C#, VB
+    Learning: Java, JS & Ruby 
     
 🌎 Check my portfolio website!
 
