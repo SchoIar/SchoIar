@@ -4,7 +4,7 @@ A bit about me:
     Nationality: 🇨🇦
     Personal interests: food, hiking, developin games & bots, anime.. all the weeb stuff..and Gaming!
     Gaming: Genshin, Minecraft, League, Hearthstone!
-    Socials: Check out my linked socials & my discord: 0xAnton#1337
+    Socials: Check out my linked socials & my discord: Dreams#4448
     Languages: English, French, Python, HTML, CSS, C, C#, VB, Arduino
     Learning: Java, JS & Ruby 
     
