@@ -12,3 +12,5 @@ A bit about me:
 
 I'm always working on something & love creating. 
 Feel free to reach out and see what I'm up to now.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SchoIar)](https://github.com/anuraghazra/github-readme-stats)
