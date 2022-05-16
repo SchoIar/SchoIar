@@ -15,4 +15,4 @@ Feel free to reach out and see what I'm up to now.
 
 [![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=SchoIar)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SchoIar)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SchoIar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
