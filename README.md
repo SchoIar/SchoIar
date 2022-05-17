@@ -4,10 +4,11 @@ A bit about me:
     Nationality: 🇨🇦
     Personal interests: food, hiking, developin games & bots, anime.. all the weeb stuff..and Gaming!
     Gaming: Genshin, Minecraft, League, Hearthstone!
-    Socials: Check out my linked socials & my discord: Dreams#4448
+    Socials: Check out my socials page on my website (or my linked twitter)
     Languages: Python, HTML, CSS, C, C#, VB, Arduino
     Learning: Java, JS & Ruby 
-    
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Flywithmedarlin.svg?style=social&label=Follow)](https://twitter.com/Flywithmedarlin/)
+
 🌎 Check my portfolio website!
 
 I'm always working on something & love creating. 
