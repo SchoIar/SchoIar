@@ -9,7 +9,7 @@ A bit about me:
     Learning: Java, JS & Ruby 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Flywithmedarlin.svg?style=social&label=Follow)](https://twitter.com/Flywithmedarlin/)
 
-🌎 Check my portfolio website!
+🌎 [Check my portfolio website!](https://antonilic.com/ "My website")
 
 I'm always working on something & love creating. 
 Feel free to reach out and see what I'm up to now.
