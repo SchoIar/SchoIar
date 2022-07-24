@@ -1,12 +1,12 @@
-💻 I'm currently a student in Vancouver, BC. Working on my Engineering Degree. ⚡️
-A bit about me:
+💻 Nice to see you here!
+I'm Anton, an Engineering student @ SFU.
 
-    Nationality: 🇨🇦
-    Personal interests: food, hiking, developin games & bots, anime.. all the weeb stuff..and Gaming!
-    Gaming: Genshin, Minecraft, League, Hearthstone!
-    Socials: Check out my socials page on my website (or my linked twitter)
+A bit about me:
+    I enjoy cooking, hiking, Judo, and eating.
+    In my free time I code things (often related to my intrest in games such as Minecraft).
     Languages: Python, HTML, CSS, C, C#, VB, Arduino
     Learning: Java, JS & Ruby 
+    
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Flywithmedarlin.svg?style=social&label=Follow)](https://twitter.com/Flywithmedarlin/)
 
 🌎 [Check my portfolio website!](https://antonilic.com/ "My website")
