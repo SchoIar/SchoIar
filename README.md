@@ -2,9 +2,9 @@
 I'm Anton, an Engineering student @ SFU.
 
 A bit about me:
-`I enjoy cooking, hiking, Judo, and eating.`
- `In my free time I code things (often related to my intrest in games such as Minecraft).`
-    Languages: Python, HTML, CSS, C, C#, VB, Arduino
+`I enjoy cooking, hiking, Judo, and eating.` <br/>
+ `In my free time I code things (often related to my intrest in games such as Minecraft).`  <br/>
+    Languages: Python, HTML, CSS, C, C#, VB, Arduino  <br/>
     Learning: Java, JS & Ruby 
     
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Flywithmedarlin.svg?style=social&label=Follow)](https://twitter.com/Flywithmedarlin/)
