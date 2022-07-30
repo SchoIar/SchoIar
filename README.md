@@ -2,8 +2,8 @@
 I'm Anton, an Engineering student @ SFU.
 
 A bit about me:
-    I enjoy cooking, hiking, Judo, and eating.
-    In my free time I code things (often related to my intrest in games such as Minecraft).
+`I enjoy cooking, hiking, Judo, and eating.`
+ `In my free time I code things (often related to my intrest in games such as Minecraft).`
     Languages: Python, HTML, CSS, C, C#, VB, Arduino
     Learning: Java, JS & Ruby 
     
