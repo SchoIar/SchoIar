@@ -3,7 +3,7 @@ I'm Anton, an Engineering student @ SFU.
 
 A bit about me: <br/>
 `I enjoy cooking, hiking, Judo, and eating.` <br/>
-`In my free time I code things (often related to my intrest in games such as Minecraft).`  <br/>
+`In my free time I code things (often related to my interest in games such as Minecraft).`  <br/>
 `Languages: Python, HTML, CSS, C, C#, VB, Arduino`  <br/>
 
     
