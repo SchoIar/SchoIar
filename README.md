@@ -5,6 +5,7 @@ A bit about me: <br/>
 `I enjoy cooking, hiking, Judo, and eating.` <br/>
 `In my free time I code things (often related to my interest in games such as Minecraft).`  <br/>
 `Languages: Python, HTML, CSS, C, C#, VB, Arduino`  <br/>
+Currently learning C++
 
     
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Flywithmedarlin.svg?style=social&label=Follow)](https://twitter.com/Flywithmedarlin/)
