@@ -4,7 +4,7 @@ I'm Anton, an Engineering student @ SFU.
 A bit about me: <br/>
 `I enjoy cooking, hiking, Judo, and eating.` <br/>
 `In my free time I code things (often related to my interest in games such as Minecraft).`  <br/>
-`Languages: Python, C/C++, Arduino, Visual Basic, MATLAB` 
+`Languages: Python, C/C++, Arduino, Visual Basic, MATLAB`   <br/>
 `Fluent in English & French` <br/>
 
 
