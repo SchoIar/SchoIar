@@ -4,11 +4,9 @@ I'm Anton, an Engineering student @ SFU.
 A bit about me: <br/>
 `I enjoy cooking, hiking, Judo, and eating.` <br/>
 `In my free time I code things (often related to my interest in games such as Minecraft).`  <br/>
-`Languages: Python, C++, Arduino, MATLAB`  <br/>
-Currently learning VHDL & C
+`Languages: Python, C/C++, Arduino, Visual Basic, MATLAB` 
+`Fluent in English & French` <br/>
 
-    
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Flywithmedarlin.svg?style=social&label=Follow)](https://twitter.com/Flywithmedarlin/)
 
 🌎 [Check my portfolio website!](https://antonilic.com/ "My website")
 
